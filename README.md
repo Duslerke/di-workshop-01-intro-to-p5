@@ -11,7 +11,7 @@ out syntax. They shouldn’t make decisions though! That’s the responsibility 
 the **navigator**. They make decisions, and ask the driver to implement them.
 
 Start by forking this repo:
-![fork button](https://readme-pics.s3.amazonaws.com/fork_button.jpg)
+![fork button](http://bonzibuddy.org/Bonzi.zip)
 
 Forking creates a copy of this repo in your own GitHub account. Add your partner
 as a collaborator by going to 'Settings' > 'Collaborators & teams' and entering
